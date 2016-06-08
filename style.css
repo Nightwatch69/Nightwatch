@@ -9,6 +9,48 @@ body {
 
 /*Stuff below governs the start screen*/
 
+
+
+.button1 {
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    height:100px;
+    width:64px;
+}
+.button2 {
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    height:100px;
+    width:64px;
+}
+.button3 {
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    height:100px;
+    width:64px;
+}
+.button4 {
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    height:100px;
+    width:64px;
+}
 .titleContent {
 	margin: 10% auto;
     text-align: center;

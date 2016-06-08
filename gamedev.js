@@ -1,4 +1,6 @@
 $( document ).ready(function() {
 
-$("one").animate();
+$( "#enemy1" ).click(function() {
+  $( "#enemy1" ).fadeOut( "slow" );
+});
 });
